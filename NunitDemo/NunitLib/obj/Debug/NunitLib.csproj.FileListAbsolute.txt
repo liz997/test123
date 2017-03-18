@@ -1,0 +1,9 @@
+c:\users\brave\documents\visual studio 2015\Projects\NunitDemo\NunitLib\bin\Debug\NunitLib.dll
+c:\users\brave\documents\visual studio 2015\Projects\NunitDemo\NunitLib\bin\Debug\NunitLib.pdb
+c:\users\brave\documents\visual studio 2015\Projects\NunitDemo\NunitLib\bin\Debug\nunit.framework.dll
+c:\users\brave\documents\visual studio 2015\Projects\NunitDemo\NunitLib\bin\Debug\NunitDemo.exe
+c:\users\brave\documents\visual studio 2015\Projects\NunitDemo\NunitLib\bin\Debug\NunitDemo.pdb
+c:\users\brave\documents\visual studio 2015\Projects\NunitDemo\NunitLib\bin\Debug\nunit.framework.xml
+c:\users\brave\documents\visual studio 2015\Projects\NunitDemo\NunitLib\obj\Debug\NunitLib.csprojResolveAssemblyReference.cache
+c:\users\brave\documents\visual studio 2015\Projects\NunitDemo\NunitLib\obj\Debug\NunitLib.dll
+c:\users\brave\documents\visual studio 2015\Projects\NunitDemo\NunitLib\obj\Debug\NunitLib.pdb
