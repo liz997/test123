@@ -11,6 +11,8 @@ namespace NunitDemo
 
         public int Add(int a, int b)
         {
+            int i = 5;
+            int j = 1;
             return a + b;
         }
     }
