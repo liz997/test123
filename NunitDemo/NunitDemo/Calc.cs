@@ -15,6 +15,7 @@ namespace NunitDemo
             int j = 1;
             int k = 99;
             int m = 15;
+            int v = k + m;
             return a + b;
         }
     }
