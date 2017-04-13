@@ -13,6 +13,7 @@ namespace NunitDemo
         {
             int i = 5;
             int j = 1;
+            int k = 99;
             return a + b;
         }
     }
